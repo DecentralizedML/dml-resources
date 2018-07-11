@@ -31,7 +31,7 @@ https://3.basecamp.com/3322517/projects/7701016
 
 * Client updates: `#ext-dml-kyokan`
 * Dev updates: `#dml-eng`
-* Design updates: * `#pixelmatter-kyokan`
+* Design updates: `#pixelmatter-kyokan`
 * Task tracking: Github issues
 
 ## Roadmap
