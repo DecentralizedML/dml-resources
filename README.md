@@ -5,10 +5,11 @@
 Name | URL
 --- | ---
 Resources (documentation, roadmap, notes, etc.) | https://github.com/kyokan/dml-resources
-Prototype | https://github.com/DecentralizedML/marketplace-prototype
 Current Mocks | https://projects.invisionapp.com/share/DYKZFWJGX73
-Staging | https://loving-chandrasekhar-d0206c.netlify.com/marketplace
-Production|  https://decentralizedml.com/
+Frontend repo | https://github.com/DecentralizedML/dml-frontend
+Backend repo | https://github.com/DecentralizedML/dml-backend
+Prototype repo | https://github.com/DecentralizedML/marketplace-prototype
+Production |  https://decentralizedml.com/
 
 ## Developers
 

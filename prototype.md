@@ -1,6 +1,18 @@
 # DML Prototype
 
+## Development
+
 https://github.com/DecentralizedML/marketplace-prototype
+
+**NOTE:** Switch to Rinkeby Testnet in `constants.js`
+
+## Staging
+
+https://loving-chandrasekhar-d0206c.netlify.com/marketplace
+
+Password: `michael_kwok`
+
+**NOTE:** must be on Rinkeby Testnet
 
 ## Frontend
 
