@@ -10,6 +10,7 @@ Frontend repo | https://github.com/DecentralizedML/dml-frontend
 Backend repo | https://github.com/DecentralizedML/dml-backend
 Prototype repo | https://github.com/DecentralizedML/marketplace-prototype
 Production |  https://decentralizedml.com/
+Prototype notes | [prototype.md](prototype.md)
 
 ## Developers
 
