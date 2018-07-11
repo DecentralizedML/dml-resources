@@ -18,14 +18,21 @@ Prototype notes | [prototype.md](prototype.md)
 * Ravi (frontend)
 * Thiago (backend)
 
+## Designers
+
+We work with the Pixelmatters design firm.
+
+https://3.basecamp.com/3322517/projects/7701016
+
+* Bruno Teles (Design Manager at Pixelmatters - main point of contact)
+* João Santiago (Pixelmatters UI/UX Designer working on DML)
+
 ## Communication
 
 * Client updates: `#ext-dml-kyokan`
 * Dev updates: `#dml-eng`
-* Pixelmatters (design firm):
-    * https://3.basecamp.com/3322517/projects/7701016
-    * `#pixelmatter-kyokan`
-* task tracking: currently Github issues
+* Design updates: * `#pixelmatter-kyokan`
+* Task tracking: Github issues
 
 ## Roadmap
 
