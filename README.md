@@ -4,8 +4,8 @@
 
 Name | URL
 --- | ---
-Resources (documentation, roadmap, notes, etc.) | https://github.com/kyokan/dml-resources
-Current Mocks | https://projects.invisionapp.com/share/DYKZFWJGX73
+Resources (this) | https://github.com/kyokan/dml-resources
+Current mocks | https://projects.invisionapp.com/share/DYKZFWJGX73
 Frontend repo | https://github.com/DecentralizedML/dml-frontend
 Backend repo | https://github.com/DecentralizedML/dml-backend
 Prototype repo | https://github.com/DecentralizedML/marketplace-prototype
@@ -16,8 +16,8 @@ Production |  https://decentralizedml.com/
 ## Developers
 
 * Jacky
-* Ravi (frontend)
-* Thiago (backend)
+* Ravi (primarily frontend)
+* Thiago (primarily backend)
 
 ## Designers
 
