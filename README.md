@@ -11,7 +11,9 @@ Backend repo | https://github.com/DecentralizedML/dml-backend
 Prototype repo | https://github.com/DecentralizedML/marketplace-prototype
 Prototype notes | [prototype.md](prototype.md)
 Meeting notes | https://github.com/kyokan/dml-resources/tree/master/meeting-notes
-Production |  https://decentralizedml.com/
+Deployed Marketplace | http://marketplace.decentralizedml.com/ (production) <br /> https://loving-chandrasekhar-d0206c.netlify.com/marketplace (staging)
+Product RFC - Marketplace | https://docs.google.com/document/d/1UPctX8c0vJW0y8E72dx5eiEUQp7Z3TICIxfAeos8ACQ
+Tech Planning | https://docs.google.com/document/d/19oqV9-mpp3BuqVXuBv1YMcpERWUjoJUfvCukjpxIeqc
 
 ## Developers
 
@@ -37,4 +39,4 @@ https://3.basecamp.com/3322517/projects/7701016
 
 ## Roadmap
 
-* RFC: https://docs.google.com/document/d/1KCPd4lE04tmgnqbmxdU2n-gXT065UVzWF-_2kYFZNeA/edit
+* RFC: https://docs.google.com/document/d/1KCPd4lE04tmgnqbmxdU2n-gXT065UVzWF-_2kYFZNeA
