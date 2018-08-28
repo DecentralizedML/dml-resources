@@ -14,6 +14,7 @@ Meeting notes | [meeting-notes](meeting-notes)
 Deployed Marketplace | http://marketplace.decentralizedml.com/ (production) <br /> https://loving-chandrasekhar-d0206c.netlify.com/marketplace (staging)
 Product RFC - Marketplace | https://docs.google.com/document/d/1UPctX8c0vJW0y8E72dx5eiEUQp7Z3TICIxfAeos8ACQ
 Tech Planning | https://docs.google.com/document/d/19oqV9-mpp3BuqVXuBv1YMcpERWUjoJUfvCukjpxIeqc
+Dev Roadmap | https://docs.google.com/spreadsheets/d/1qhYu2QRsf6Y6XD8JBbZam-smUUu_lCgOhf9wS4OOvT8
 
 ## Developers
 
